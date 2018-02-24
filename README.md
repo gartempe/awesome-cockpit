@@ -25,4 +25,9 @@ Extend Cockpit core functionality by sending a customized email when a collectio
 * ...
 
 ## Examples
-...
+* [Example Cockpit CMS/React Headless website](https://github.com/pauloamgomes/cockpit-react-example) Example Headless website implementation using Cockpit CMS on the backend and ReactJS in the frontend.
+
+
+# Ask a question
+* [Github Issues](https://github.com/agentejo/cockpit/issues)
+* [Google+ Cockpit Group](https://plus.google.com/communities/114909939320646034687)

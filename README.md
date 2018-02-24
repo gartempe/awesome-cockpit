@@ -17,7 +17,9 @@ Add-on for Cockpit CMS that provides a Multiple Collection Link field
 * [cockpit-EmailOnSave](https://github.com/pauloamgomes/cockpit-EmailOnSave)
 Extend Cockpit core functionality by sending a customized email when a collection is saved.
 
-## Examples
+## Tutorials
+...
 
+## Examples
 ...
 

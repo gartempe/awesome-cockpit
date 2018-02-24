@@ -19,9 +19,9 @@ Extend Cockpit core functionality by sending a customized email when a collectio
 * [cockpit_GROUPS](https://github.com/serjoscha87/cockpit_GROUPS) A Group Management Addon for Cockpit
 
 ## Tutorials
-* Simple website approach using a Headless CMS: Part 2 (Appnovation 2018) https://www.appnovation.com/blog/simple-website-approach-using-headless-cms-part-2
-* Introducing CockpitCMS – a CMS for Developers (Sitepoint 2015) https://www.sitepoint.com/introducing-cockpitcms-cms-developers/
-* A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack (Snipcart 2017) https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs
+* [Simple website approach using a Headless CMS: Part 2](https://www.appnovation.com/blog/simple-website-approach-using-headless-cms-part-2) (Appnovation 2018)
+* [Introducing CockpitCMS – a CMS for Developers](https://www.sitepoint.com/introducing-cockpitcms-cms-developers/) (Sitepoint 2015) 
+* [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs) (Snipcart 2017) 
 * ...
 
 ## Examples

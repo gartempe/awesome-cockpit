@@ -16,6 +16,7 @@ A curated list of resources for [Cockpit CMS](https://github.com/agentejo/cockpi
 Add-on for Cockpit CMS that provides a Multiple Collection Link field
 * [cockpit-EmailOnSave](https://github.com/pauloamgomes/cockpit-EmailOnSave)
 Extend Cockpit core functionality by sending a customized email when a collection is saved.
+* [cockpit_GROUPS](https://github.com/serjoscha87/cockpit_GROUPS) A Group Management Addon for Cockpit
 
 ## Tutorials
 * Simple website approach using a Headless CMS: Part 2 (Appnovation 2018) https://www.appnovation.com/blog/simple-website-approach-using-headless-cms-part-2

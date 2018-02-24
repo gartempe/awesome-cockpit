@@ -1,5 +1,5 @@
 # awesome-cockpit
-A curated list of resources for Cockpit CMS
+A curated list of resources for [Cockpit CMS](https://github.com/agentejo/cockpit)
 
 (Work-In-Progress)
 
@@ -18,8 +18,9 @@ Add-on for Cockpit CMS that provides a Multiple Collection Link field
 Extend Cockpit core functionality by sending a customized email when a collection is saved.
 
 ## Tutorials
-...
+* Introducing CockpitCMS – a CMS for Developers (Sitepoint 2015) https://www.sitepoint.com/introducing-cockpitcms-cms-developers/
+* A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack (Snipcart 2017) https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs
+* ...
 
 ## Examples
 ...
-

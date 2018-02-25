@@ -1,7 +1,7 @@
 # Awesome Cockpit
 A curated list of resources for [Cockpit CMS](https://github.com/agentejo/cockpit)
 
-(Work-In-Progress)
+(Work-In-Progress, very early stage)
 
 ## Documentation
 

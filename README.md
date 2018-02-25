@@ -1,6 +1,8 @@
 # Awesome Cockpit
 A curated list of resources for [Cockpit CMS](https://github.com/agentejo/cockpit)
 
+[Official website : getcockpit.com](http://getcockpit.com/)
+
 (Work-In-Progress, very early stage)
 
 ## Documentation
@@ -33,3 +35,4 @@ Extend Cockpit core functionality by sending a customized email when a collectio
 # Ask a question
 * [Github Issues](https://github.com/agentejo/cockpit/issues)
 * [Google+ Cockpit Group](https://plus.google.com/communities/114909939320646034687)
+* [Stackoverflow](https://stackoverflow.com/search?page=1&tab=Relevance&q=cockpit%20cms)
